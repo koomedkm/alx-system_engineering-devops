@@ -1,1 +1,1 @@
-this scripots output hello world
+Displays the content of the /etc/passwd files
