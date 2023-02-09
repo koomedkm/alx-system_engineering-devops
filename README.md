@@ -1,2 +1,3 @@
 # alx-system_engineering-devops
-this is where i will be pushing my alx devops assignments
+this repo contains tasks related to the project alx system engineering devops in the alx course.
+
